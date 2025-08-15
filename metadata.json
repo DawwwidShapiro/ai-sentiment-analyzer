@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Sentiment Analyzer",
+  "description": "A modern web application for text sentiment analysis powered by the Gemini API. Enter any text to determine if its sentiment is positive, negative, or neutral, complete with a confidence score and explanation.",
+  "requestFramePermissions": []
+}
